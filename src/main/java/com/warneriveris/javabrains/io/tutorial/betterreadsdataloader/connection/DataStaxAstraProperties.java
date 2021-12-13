@@ -1,4 +1,4 @@
-package connection;
+package com.warneriveris.javabrains.io.tutorial.betterreadsdataloader.connection;
 
 import java.io.File;
 
